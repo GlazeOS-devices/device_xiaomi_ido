@@ -108,3 +108,11 @@ persist.timed.enable=true
 
 # WIFI
 wifi.interface=wlan0
+
+# Hardware Info
+ro.device.chipset=Qualcomm MSM8939v2 Snapdragon 616
+ro.device.cpu=Quad-core 1.5 GHz Cortex-A53 & quad-core 1.2 GHz Cortex-A53
+ro.device.gpu=Adreno 405
+ro.device.rear_cam=13 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=720x1280
